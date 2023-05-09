@@ -1,0 +1,70 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+element.style{
+	overflow-x:hidden;
+}
+
+.navbar {
+	background-color:#80A894 !important;
+	font-family: 'Roboto Slab', serif;
+}
+
+
+.body {
+	background-color:#FFFAF0 !important;
+	font-family: 'Roboto Slab', serif;
+}
+
+.navbar-brand {
+    font-family: 'Vina Sans', cursive;
+    font-size: xx-large;
+}
+
+.nav-link {
+    font-family: 'Barlow Condensed';
+    font-size: x-large;
+
+}
+
+.headtitle{
+	margin:auto;
+	font-family: 'Roboto Slab', serif;
+}
+
+.center {
+	margin: auto !important;
+	width: 50% !important;
+	text-align: center !important;
+  }
+
+.indent{
+	color:#FFFAF0 !important;
+}
+
+.about {
+    text-align: center;
+    margin:7px;
+    margin-left:35px;
+    margin-right:35px;
+}
+
+img.resize {
+    width:60px; /* you can use % */
+    height: auto;
+}
+
+.resizebig {
+    width:100px; /* you can use % */
+    height: auto;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.resizebig {
+    width:250px; /* you can use % */
+    height: auto;
+}
