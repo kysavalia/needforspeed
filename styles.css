@@ -68,3 +68,61 @@ img.resize {
     width:250px; /* you can use % */
     height: auto;
 }
+
+.shadow-1-strong {
+    border:2px solid black;
+}
+
+.text-xs {
+    color:black !important;
+    font-family: 'Ubuntu';
+    font-weight: 300;
+    font-size: 12;
+}
+
+.coaches {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    width:100%;
+    font-size: 34px;
+    /*border:1px solid black;*/
+    padding: 0 14px;
+}
+
+.ben{
+	width:500px;
+	height:auto;
+	display:inline-block;
+	margin:20px;	
+}
+
+.ben-text{
+	margin:20px;
+	text-align:justify;
+}
+
+.ben-img{
+	float:left;
+    margin: auto;
+    width: 300px; 
+    padding: 25px;
+}
+
+.text-big {
+    color:black !important;
+    font-family: 'Ubuntu';
+    font-weight: 500;
+}
+
+.text-small {
+    color:black !important;
+    font-family: 'Ubuntu';
+    font-weight: 300;
+}
+
+.text-medium {
+    color:black !important;
+    font-family: 'Ubuntu';
+    font-weight: 400;
+}
