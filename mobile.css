@@ -1,0 +1,134 @@
+@import '~mdb-ui-kit/css/mdb.min.css';
+element.style{
+	overflow-x:hidden;
+}
+
+.navbar {
+	background-color:#80A894 !important;
+	font-family: 'Roboto Slab', serif;
+}
+
+
+.body {
+	background-color:#FFFAF0 !important;
+	font-family: 'Roboto Slab', serif;
+}
+
+.navbar-brand {
+    font-family: 'Vina Sans', cursive;
+    font-size: xx-large;
+}
+
+.nav-link {
+    font-family: 'Barlow Condensed';
+    font-size: x-large;
+
+}
+
+.headtitle{
+	margin:auto;
+	font-family: 'Roboto Slab', serif;
+}
+
+.center {
+	margin: auto !important;
+	width: 100% !important;
+	text-align: center !important;
+  }
+
+.indent{
+	color:#FFFAF0 !important;
+}
+
+.about {
+    text-align: center;
+    
+    margin-left:15px;
+    margin-right:15px;
+}
+
+img.resize {
+    width:60px; /* you can use % */
+    height: auto;
+}
+
+.resizebig {
+    width:100px; /* you can use % */
+    height: auto;
+}
+
+.centerimg {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.resizebig {
+    width:250px; /* you can use % */
+    height: auto;
+}
+
+.shadow-1-strong {
+    border:2px solid black;
+}
+
+.text-xs {
+    color:black !important;
+    font-family: 'Ubuntu';
+    font-weight: 300;
+    font-size: 12;
+}
+
+.coaches {
+
+    flex-direction: column;
+    justify-content: space-evenly;
+    width:100%;
+    font-size: 34px;
+    /*border:1px solid black;*/
+    padding: 0px;
+}
+
+.link {
+    color:rgb(64, 64, 197) !important;
+    text-decoration: underline;
+}
+
+.ben{
+	width:300px;
+	height:auto;
+	
+	margin:20px;	
+}
+
+.ben-text{
+	margin:20px;
+	text-align:left;
+}
+
+.ben-img{
+	float:center;
+    margin: auto;
+    width: 300px; 
+    padding: 20px;
+    display:block;
+}
+
+.text-big {
+    color:black !important;
+    font-family: 'Ubuntu';
+    font-weight: 500;
+}
+
+.text-small {
+    color:black !important;
+    font-family: 'Ubuntu';
+    font-weight: 300;
+}
+
+.text-medium {
+    color:black;
+    font-family: 'Ubuntu';
+    font-weight: 400;
+}
